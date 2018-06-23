@@ -1,0 +1,15 @@
+[submodule "home/.vim/bundle/vim-terraform"]
+	path = home/.vim/bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
+[submodule "home/.vim/bundle/vim-packer"]
+	path = home/.vim/bundle/vim-packer
+	url = https://github.com/hashivim/vim-packer.git
+[submodule "home/.vim/bundle/vim-vagrant"]
+	path = home/.vim/bundle/vim-vagrant
+	url = https://github.com/hashivim/vim-vagrant.git
+[submodule "home/.vim/bundle/vim-consul"]
+	path = home/.vim/bundle/vim-consul
+	url = https://github.com/hashivim/vim-consul.git
+[submodule "home/.vim/bundle/vim-helm"]
+	path = home/.vim/bundle/vim-helm
+	url = https://github.com/towolf/vim-helm.git
