@@ -13,3 +13,6 @@
 [submodule "home/.vim/bundle/vim-helm"]
 	path = home/.vim/bundle/vim-helm
 	url = https://github.com/towolf/vim-helm.git
+[submodule "home/.vim/bundle/nginx.vim"]
+	path = home/.vim/bundle/nginx.vim
+	url = https://github.com/chr4/nginx.vim.git
